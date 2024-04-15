@@ -1,0 +1,11 @@
+com\yupi\ggcommon\model\entity\UserInterfaceInfo.class
+com\yupi\ggcommon\model\vo\LoginUserVO.class
+com\yupi\ggcommon\model\vo\UserVO.class
+com\yupi\ggcommon\model\enums\InterfaceInfoStatusEnum.class
+com\yupi\ggcommon\service\InnerUserInterfaceInfoService.class
+com\yupi\ggcommon\model\enums\FileUploadBizEnum.class
+com\yupi\ggcommon\model\entity\User.class
+com\yupi\ggcommon\service\InnerInterfaceInfoService.class
+com\yupi\ggcommon\model\entity\InterfaceInfo.class
+com\yupi\ggcommon\model\enums\UserRoleEnum.class
+com\yupi\ggcommon\service\InnerUserService.class
